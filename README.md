@@ -1,5 +1,7 @@
 # ToE Learning Foundation
 
+**Open the school:** https://cbaird26.github.io/toe-learning-foundation/
+
 A Khan Academy-style self-study school for a 39-course curriculum that runs from algebra to graduate theoretical physics:
 foundation mathematics, university mathematics, undergraduate physics, graduate preparation and research, and optional enrichment.
 
